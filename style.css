@@ -16,10 +16,15 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    position: relative;
 }
 
 .header-block {
-    padding-top: 39.85vh;
+    /* padding-top: 39.85vh; */
+    width: 100%;
+    position: absolute;               
+    top: 50%;                       
+    transform: translate(0, -50%);    
 }
 
 .header, .two, .four, .button {
