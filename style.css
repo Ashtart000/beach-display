@@ -54,6 +54,10 @@ article {
     color: #ffffff;
 }
 
+.two {
+    background-color: #92633915;
+}
+
 .button {
     font-family: inherit;
     background-color: #92633900;
@@ -79,7 +83,6 @@ article {
 }
 
 .five {
-    position: absolute;
     right: 0;
 }
 
